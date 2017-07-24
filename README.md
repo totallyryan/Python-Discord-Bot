@@ -5,7 +5,7 @@ This bot automatically finds the IDs, and chats them to Discord via a webhook.
 
 
 
-#Settings 
+# Settings 
 
 At the bottom of the main python script, you will see Username and Password. I would say to create a new account, then enter
 those credentials into the system. Once you make the account, and enter the credentials, setup a Discord server. Discord
@@ -15,5 +15,5 @@ Once finished, save the script and run it in your cmds, or terminal.
 
 
 
-#Running The Scrip
+# Running The Script
 
