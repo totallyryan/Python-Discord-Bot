@@ -13,7 +13,3 @@ information can be found on the Discord website. Once your server is created, ad
 Near the bottom of the page, you will see "discord webhook," this is where you will paste your webhook link into.
 Once finished, save the script and run it in your cmds, or terminal.
 
-
-
-# Running The Script
-
